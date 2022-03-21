@@ -1,11 +1,10 @@
 ## Hi there I'M Carlos Tisca👋
 
 ### About me:
-- 🔭 I’m currently working at IBM 😀😀
+- 🔭 I’m currently working at IUX LEGAL & SOFTWARE 😀😀
 - 🌱 I’m currently learning React/ React Native 😜
 - 👯 I’m looking to collaborate on freelance projects, E-commerce, web apps 🤗
 - ⚡ Fun fact: I like Twenty One Pilots.
-- 💻 I'M currently working in a project : NeoCode 💻
 
 
 ### Contact me:
