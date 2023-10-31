@@ -1,7 +1,7 @@
 ## Hi there I'M Carlos Tisca👋
 
 ### About me:
-- 🔭 I’m currently working at IUX LEGAL & SOFTWARE 😀😀
+- 🔭 I’m currently working at Freelance projects 😀😀
 - 🌱 I’m currently learning React/ React Native 😜
 - 👯 I’m looking to collaborate on freelance projects, E-commerce, web apps 🤗
 - ⚡ Fun fact: I like Twenty One Pilots.
