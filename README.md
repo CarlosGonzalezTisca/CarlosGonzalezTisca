@@ -2,7 +2,7 @@
 
 ### About me:
 - 🔭 I’m currently working at Freelance projects 😀😀
-- 🌱 I’m currently learning React/ React Native 😜
+- 🌱 I’m currently learning Astro 😜
 - 👯 I’m looking to collaborate on freelance projects, E-commerce, web apps 🤗
 - ⚡ Fun fact: I like Twenty One Pilots.
 
